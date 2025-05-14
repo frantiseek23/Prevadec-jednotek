@@ -1,25 +1,38 @@
-# Převodník jednotek v Pythonu
+#  Převodník jednotek – Ročníkový projekt (Python)
+---
+O projektu:
+Projekt slouží jako nástroj pro převod mezi základními fyzikálními jednotkami, jako je:
 
-## Popis projektu
+- Teplota: °C ↔ °F  
+- Délka: metry ↔ stopy  
+- Hmotnost: kilogramy ↔ libry  
+- Rychlost: km/h ↔ mph  
+- Čas: minuty ↔ sekundy  
+- Objem: litry ↔ galony  
 
-Tento projekt je jednoduchý **převodník jednotek** napsaný v jazyce Python. Program umožňuje převádět různé fyzikální jednotky:
-- **Teplota (Celsius ↔ Fahrenheit)**
-- **Délka (metry ↔ stopy)**
-- **Hmotnost (kilogramy ↔ libry)**
+---
 
-Uživatel si může vybrat typ převodu a zadat požadovanou hodnotu. Program následně vypíše výsledek převodu. Aplikace běží v konzoli a je interaktivní. Je napsána bez použití funkcí, pouze s využitím základních podmínek a cyklů.
+###  Postup práce
 
-## Funkcionalita
+1. Nejdříve jsem si potřeboval naprogramovat samotný převodník (přiznám se že s tímhle jsem měl obecně problém a nervy ale nakonec se povedlo :).)
+2. Chtěl jsem si nové zkusit funkce, které jsem přidal (obousměrné převody, historii, více kategorií).
+3. Začal jsem kód strukturovat pomocí podmínek (`if/elif`) a vylepšil vstupy pomocí kontrol (např. `try/except`).
+4. Do projektu jsem přidal knihovnu `colorama` pro barevný výstup v terminálu protože barvičky jsou hustý.
 
-1. **Převod teploty** z **Celsia** na **Fahrenheit**.
-2. **Převod délky** z **metrů** na **stopy**.
-3. **Převod hmotnosti** z **kilogramů** na **libry**.
-4. Uživatel má možnost provádět více převodů po sobě.
-5. Program lze ukončit zadaním volby **0**.
+---
 
-## Jak spustit program
+##  Spuštění programu
 
-1. Stáhněte si tento projekt na svůj počítač.
-2. Otevřete příkazový řádek (terminál) a přejděte do složky, kde máte uložený soubor `main.py`.
-3. Spusťte program pomocí příkazu: 
+### 1. Instalace Pythonu (Kdyby ho někdo neměl :D )
+ [https://www.python.org/downloads/](https://www.python.org/downloads/)
+Nejradši používám Pycharm takže odkaz na něj je zde:
+https://www.jetbrains.com/pycharm/download/?section=windows
+
+### 2. Instalace potřebné knihovny
+
+Program využívá knihovnu Colorama pro barevný výstup v terminálu.
+
+Do terminálu zadejte pouze tenhle příkaz pro získání:
+        pip install colorama
+ 
 
