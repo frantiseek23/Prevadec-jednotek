@@ -11,7 +11,7 @@ def zapis_do_historie(text):
 
 def vypis_nadpis():
     print(Fore.CYAN + "=" * 60)
-    print(Fore.CYAN + "               VYLEPŠENÝ PŘEVODNÍK JEDNOTEK")
+    print(Fore.CYAN + "                PŘEVODNÍK JEDNOTEK")
     print(Fore.CYAN + "=" * 60 + "\n")
 
 def nacti_cislo(dotaz):
