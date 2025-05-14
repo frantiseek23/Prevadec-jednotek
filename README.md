@@ -47,8 +47,8 @@ Python pomocník. Online. Dostupné z: https://www.w3schools.com/python/. [cit. 
 
 Dokumentace Python. Online. Dostupné z: https://docs.python.org/3/. [cit. 2025-05-14]. – oficiální dokumentace Pythonu
 
-
 Dokumentace colorama. Online. Dostupné z: https://pypi.org/project/colorama/. [cit. 2025-05-14]. – barevný výstup v terminálu
+
 ---
 
 ##  Poděkování
