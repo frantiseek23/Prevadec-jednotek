@@ -35,19 +35,26 @@ Program využívá knihovnu Colorama pro barevný výstup v terminálu.
 
 Do terminálu zadejte pouze tenhle příkaz pro získání:
         pip install colorama
-## 3. Stáhnout si program přiložený v repozitáři
+### 3. Stáhnout si program přiložený v repozitáři
 
-## 4. Spustit přes nějaké IDE např. Pycharm
+### 4. Spustit přes nějaké IDE např. Pycharm
+
+---
 
 ##  Dokumentace a použité zdroje:
 
-https://www.w3schools.com/python/ – syntaxe a vstupy v Pythonu
+Python pomocník. Online. Dostupné z: https://www.w3schools.com/python/. [cit. 2025-05-14]. – syntaxe a vstupy v Pythonu
 
-https://docs.python.org/3/ – oficiální dokumentace Pythonu
+Dokumentace Python. Online. Dostupné z: https://docs.python.org/3/. [cit. 2025-05-14]. – oficiální dokumentace Pythonu
 
-https://pypi.org/project/colorama/ – barevný výstup v terminálu
+
+Dokumentace colorama. Online. Dostupné z: https://pypi.org/project/colorama/. [cit. 2025-05-14]. – barevný výstup v terminálu
+---
 
 ##  Poděkování
-   Velké díky si zasloužím dát já sobě že jsem udělal konečne kus práce.
+   Velké díky si zasloužím dát já sobě že jsem se hecnul a něco udělal.
+   
    Dále bych poděkoval Chatu GPT za rady a nápady.
+
+   
 
