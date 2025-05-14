@@ -25,6 +25,7 @@ Projekt slouží jako nástroj pro převod mezi základními fyzikálními jedno
 
 ### 1. Instalace Pythonu (Kdyby ho někdo neměl :D )
  [https://www.python.org/downloads/](https://www.python.org/downloads/)
+ 
 Nejradši používám Pycharm takže odkaz na něj je zde:
 https://www.jetbrains.com/pycharm/download/?section=windows
 
@@ -34,8 +35,9 @@ Program využívá knihovnu Colorama pro barevný výstup v terminálu.
 
 Do terminálu zadejte pouze tenhle příkaz pro získání:
         pip install colorama
-### 3. Stáhnout si program přiložený v repozitáři
-### 4. Spustit přes nějaké IDE např. Pycharm
+## 3. Stáhnout si program přiložený v repozitáři
+
+## 4. Spustit přes nějaké IDE např. Pycharm
 
 ##  Dokumentace a použité zdroje:
 
