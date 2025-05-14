@@ -1,7 +1,3 @@
-# Ročníkový projekt: Vylepšený převodník jednotek
-# Autor: (tvé jméno)
-# Funkce: podpora více jednotek, ukládání historie, barevné výpisy
-
 from datetime import datetime
 from colorama import init, Fore, Style
 
