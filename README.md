@@ -14,7 +14,7 @@ Projekt slouží jako nástroj pro převod mezi základními fyzikálními jedno
 
 ###  Postup práce
 
-1. Nejdříve jsem si potřeboval naprogramovat samotný převodník (přiznám se že s tímhle jsem měl obecně problém a nervy ale nakonec se povedlo :).)
+1. Nejdříve jsem si potřeboval naprogramovat samotný převodník.
 2. Chtěl jsem si nové zkusit funkce, které jsem přidal (obousměrné převody, historii, více kategorií).
 3. Začal jsem kód strukturovat pomocí podmínek (`if/elif`) a vylepšil vstupy pomocí kontrol (např. `try/except`).
 4. Do projektu jsem přidal knihovnu `colorama` pro barevný výstup v terminálu protože barvičky jsou hustý.
