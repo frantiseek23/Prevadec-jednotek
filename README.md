@@ -34,6 +34,8 @@ Program využívá knihovnu Colorama pro barevný výstup v terminálu.
 
 Do terminálu zadejte pouze tenhle příkaz pro získání:
         pip install colorama
+### 3. Stáhnout si program přiložený v repozitáři
+### 4. Spustit přes nějaké IDE např. Pycharm
 
 ##  Dokumentace a použité zdroje:
 
