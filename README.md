@@ -51,7 +51,8 @@ Dokumentace colorama. Online. Dostupné z: https://pypi.org/project/colorama/. [
 
 ---
 ## Schéma
-(Schéma.png)
+![Schéma](Schéma.png)
+
 
 
 
